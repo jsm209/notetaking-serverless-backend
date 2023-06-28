@@ -12,4 +12,4 @@ To use this:
 6. Before deploying to AWS, adjust the API throttling as needed in the serverless.yml.
 7. Deploy to AWS with `sls deploy -s dev`.
 
-Reference: https://medium.com/tech-at-nordstrom/building-a-rest-api-in-node-js-using-aws-services-mongodb-and-serverless-framework-9e0530baaa3f
+[Reference](https://medium.com/tech-at-nordstrom/building-a-rest-api-in-node-js-using-aws-services-mongodb-and-serverless-framework-9e0530baaa3f)
